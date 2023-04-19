@@ -66,6 +66,20 @@ Payment Page
 <a href='https://postimg.cc/f3CzbSWr' target='_blank'><img src='https://miro.medium.com/max/700/1*dpKdvnEKm2PS1p9WPkRrfw.png' border='0' alt='Screenshot-2022-07-02-124942'/></a>
 # Team Contributions,
 
+# Rajan Kumar:
+
+Myself Rajan Kumar, This is my Second collaborative team project at Masai school. I’m going to tell you my contribution in this project.
+
+Here’s my LinkedIn profile:-http://www.linkedin.com/in/rajan-kumar-9627a0237
+
+My contributions in this projects starts from the Footer Part, and Continues with some major parts like,
+
+Carts Page
+
+Payment Page
+
+And also using some parts like LocalStorage, Html, Css, JS, etc…
+
 # Ajeet Singh:
 
 Myself Ajeet Singh, This is my Second collaborative team project at Masai school. I’m going to tell you my contribution in this project.
@@ -97,21 +111,6 @@ Womens Page
 Kids Page
 
 And parts in Navbar
-
-And also using some parts like LocalStorage, Html, Css, JS, etc…
-
-
-# Rajan Kumar:
-
-Myself Rajan Kumar, This is my Second collaborative team project at Masai school. I’m going to tell you my contribution in this project.
-
-Here’s my LinkedIn profile:-http://www.linkedin.com/in/rajan-kumar-9627a0237
-
-My contributions in this projects starts from the Footer Part, and Continues with some major parts like,
-
-Carts Page
-
-Payment Page
 
 And also using some parts like LocalStorage, Html, Css, JS, etc…
 
