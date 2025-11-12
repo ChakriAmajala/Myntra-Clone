@@ -26,7 +26,7 @@ pipeline {
 
         stage('Checkout from Git') {
             steps {
-                git branch: 'main', url: 'https://github.com/ChakriAmajala/Myntra-Clone.git'
+                git branch: 'master', url: 'https://github.com/ChakriAmajala/Myntra-Clone.git'
                 sh 'ls -la'
             }
         }
